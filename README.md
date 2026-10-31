@@ -8,7 +8,7 @@ SylvMusic is a modern audio player built with Kotlin.
 * **Polished Interface:** Apple-inspired clean visual design built dynamically on top of modern Kotlin rendering frameworks.
 
 ## Project Origin & Credits
-This repository is a downstream variation of **BitChord** created by Kushagra Singh. We extend our immense gratitude to the original project and all its open-source contributors for establishing the playback architecture, UI templates, and media sessions handling.
+This repository is a downstream variation of **BitChord**. We extend our immense gratitude to the original project and all its open-source contributors for establishing the playback architecture, UI templates, and media sessions handling.
 
 ## Development & Building
 Because this project utilizes a multi-module architecture, ensure you have the appropriate ecosystem components ready before compiling:
@@ -19,3 +19,9 @@ Because this project utilizes a multi-module architecture, ensure you have the a
 
 ## License
 Following the licensing constraints of the upstream project, SylvMusic is open-source software distributed under the GNU General Public License v3 (GPLv3).
+
+
+## Support This Project 
+<img width="597" height="574" alt="4963" src="https://github.com/user-attachments/assets/3b1b6f67-a75c-4f0b-a43e-96ab2897e4d4" />
+
+     ggzeux@oksbi
