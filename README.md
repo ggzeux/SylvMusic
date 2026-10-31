@@ -9,5 +9,5 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 
 
-support this project 
-<img width="1033" height="555" alt="4745" src="https://github.com/user-attachments/assets/89e0072c-9cd3-4f72-9d1c-47ced9cb6f43" />
+      support this project 
+<img width="597" height="574" alt="4963" src="https://github.com/user-attachments/assets/1da20541-7ee4-4bc5-a146-dabd728721c4" />
