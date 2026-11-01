@@ -2,6 +2,11 @@
 
 SylvMusic is a modern audio player built with Kotlin.
 
+
+## Preview 
+Preview Before Installing 
+https://drive.google.com/drive/folders/1a9l4H7OYRGzK28IrrdydunM0Mf60BLx7
+
 ## Core Capabilities
 * **Streaming & Caching:** Stream fluidly from public endpoints with offline download and local library integration.
 * **Premium Audio Pipeline:** Native support for gapless playback, custom crossfade ranges, and advanced audio backend utilities.
